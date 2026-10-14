@@ -7,7 +7,7 @@
 
 </p>
 
-<h1 align="center">polyedit</h1>
+<h1 align="center">polyedit (Minimal)</h1>
 
 <p align="center">
    Minimal; simple.
